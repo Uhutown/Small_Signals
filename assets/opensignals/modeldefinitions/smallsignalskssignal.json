@@ -56,11 +56,16 @@
             ],
             "y": 2
         },
-        "ks/ks_mast3": {
+        "ks/ks_mast1": {
             "textures": [
-                {}
-            ],
-            "y": 1
+                {
+                    "y": 1
+                },
+                {
+                    "blockstate": "!(with(KOMBITYPE.KS_STOPSIGNAL_LEFT) || with(KOMBITYPE.KS_MAIN_LEFT) || with(KOMBITYPE.DISTANT_LEFT) || with(KOMBITYPE.KS_STOPSIGNAL_RIGHT) || with(KOMBITYPE.KS_MAIN_RIGHT) || with(KOMBITYPE.DISTANT_RIGHT))",
+                    "y": 2
+                }
+            ]
         },
         "ks/ks_mast_left": {
             "textures": [
@@ -74,14 +79,6 @@
             "textures": [
                 {
                     "blockstate": "with(KOMBITYPE.KS_STOPSIGNAL_RIGHT) || with(KOMBITYPE.KS_MAIN_RIGHT) || with(KOMBITYPE.DISTANT_RIGHT)"
-                }
-            ],
-            "y": 2
-        },
-        "ks/ks_mast4": {
-            "textures": [
-                {
-                    "blockstate": "!(with(KOMBITYPE.KS_STOPSIGNAL_LEFT) || with(KOMBITYPE.KS_MAIN_LEFT) || with(KOMBITYPE.DISTANT_LEFT) || with(KOMBITYPE.KS_STOPSIGNAL_RIGHT) || with(KOMBITYPE.KS_MAIN_RIGHT) || with(KOMBITYPE.DISTANT_RIGHT))"
                 }
             ],
             "y": 2

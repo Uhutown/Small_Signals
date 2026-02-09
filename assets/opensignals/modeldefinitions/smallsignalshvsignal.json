@@ -20,17 +20,15 @@
 			],
 			"y": 0
 		},
-		"hv/hv_mast3": {
+		"hv/hv_mast1": {
 			"textures": [
-				{}
-			],
-			"y": 1
-		},
-		"hv/hv_mast4": {
-			"textures": [
-				{}
-			],
-			"y": 2
+				{
+					"y": 1
+				},
+				{
+					"y": 2
+				}
+			]
 		},
 		"hv/hv_zs1": {
 			"textures": [

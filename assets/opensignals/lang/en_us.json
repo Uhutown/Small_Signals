@@ -1,5 +1,6 @@
 {
     "tile.smallsignalskssignal.name": "Ks - Combination signal small",
     "tile.smallsignalshlsignal.name": "Hl - Light main signal small",
-    "tile.smallsignalshvsignal.name": "Hv - Main/Distant signal small"
+    "tile.smallsignalshvsignal.name": "Hv - Main/Distant signal small",
+    "tile.smallsignalszs32.name": "Zs3/Zs2"
 }

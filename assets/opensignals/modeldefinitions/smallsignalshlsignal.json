@@ -56,17 +56,15 @@
             ],
             "y": 0
         },
-        "hl/hl_mast3": {
+        "hl/hl_mast1": {
             "textures": [
-                {}
-            ],
-            "y": 1
-        },
-        "hl/hl_mast4": {
-            "textures": [
-                {}
-            ],
-            "y": 2
+                {
+                    "y": 1
+                },
+                {
+                    "y": 2
+                }
+            ]
         },
         "hl/hl_shield2": {
             "textures": [
